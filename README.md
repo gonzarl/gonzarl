@@ -7,7 +7,7 @@
 </p>
 
 <h2>About me</h3>
-Hi there! 👋 My name is Gonzalo Riquelme Ludwig and I'm a 22-year-old student currently pursuing a degree in Information Systems Engineering at the Universidad Nacional del Sur, in Argentina 🎓. I'm passionate about learning 📚 and I enjoy exploring new technologies and programming languages 💻. 
+Hi there! 👋 My name is Gonzalo Riquelme Ludwig and I'm a 23-year-old student currently pursuing a degree in Software Engineering at the Universidad Nacional del Sur, in Argentina 🎓. Meanwhile, I also work as a full stack developer. I'm passionate about learning 📚 and I enjoy exploring new technologies in the Web Development industry 💻. 
 
 <h2>Some Tools I Have Used and Learned 🚀</h3>
 <p align="center"> 
